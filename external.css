@@ -1,0 +1,35 @@
+
+.card
+{
+      background-color:  #9f9489;
+      height: 450px;
+      width: 21%;
+      float: left;
+       margin: 2%;
+}
+h1, h2 {
+    text-align: center; 
+ }
+ .image
+ {
+    height: 200px;
+     width:100%;
+ }
+ #color1
+ {
+    background-color: rgb(87 129 179)
+ }
+ #color2
+ {
+     background-color:rgb(119, 79, 231)
+   
+ }
+ #color3
+ {
+    background-color: rgb(31 57 69)
+ }
+ p
+ {
+    text-align: justify;
+ }
+
